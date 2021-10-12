@@ -1,5 +1,5 @@
 window.onload = function() {
-	let str = "Hello Josh. Welcome to my website!";
+	let str = "Hello Kristyn. Welcome to my website!";
 	printLine(str);
 
 	
